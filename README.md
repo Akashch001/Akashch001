@@ -1,25 +1,71 @@
-# 💫 About Me:
-I’m a self-taught UI/UX designer focused on creating clean, user-friendly, and conversion-driven digital experiences. I specialize in designing modern websites and mobile interfaces that are not just visually appealing but also easy to use and built for real results.<br><br>Currently, I’m building my freelancing journey by working on practical projects, improving my design skills, and exploring AI-powered tools to stay ahead in the design industry.<br><br>I believe great design is not just about looks — it’s about solving problems, improving user experience, and helping businesses grow online.<br><br>I’m actively looking to collaborate with startups, creators, and businesses worldwide to bring ideas to life through smart and impactful design.
+<h1 align="center">Hi 👋, I'm AKASH(Pronab)</h1>
+<h3 align="center">🚀 UI/UX Designer | Freelancer | AI Explorer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pronab-chakraborty-b413bb80/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pronab “AkashChakraborty” chakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashchakraborty606@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akashch001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akashch001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashch001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akashch001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashch001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akashch001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/TLDn7EsmtfXbP1YbJaS1sW7DYTQPYV4t2C) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pronabchakraborty87) 
+### 💫 About Me
+- 🎨 UI/UX Designer focused on clean & user-friendly design  
+- 🌍 Building a global freelancing career  
+- 🤖 Exploring AI tools for design & productivity  
+- 🚀 Learning by doing real-world projects  
+- 💡 Goal: Earn online & work with international clients  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-Design-pink?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/UI/UX-Designer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashch001&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Akashch001&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Current Focus
+- 🔭 Working on UI/UX portfolio projects  
+- 🤝 Looking to collaborate on website & app design  
+- 🌱 Learning advanced UI/UX + AI tools  
+- 💬 Ask me about design, freelancing & tools  
+
+---
+
+### ⚡ Fun Fact
+I’m building my career from skills, not just certificates 🚀
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://www.paypal.me/pronabchakraborty87">
+    <img src="https://img.shields.io/badge/PayPal-Support-blue?style=for-the-badge&logo=paypal" />
+  </a>
+</p>
+
+**USDT (TRC20):**  
+`TLDn7EsmtfXbP1YbJaS1sW7DYTQPYV4t2C`
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pronab-chakraborty-b413bb80/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:akashchakraborty606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
