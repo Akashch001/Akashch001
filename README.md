@@ -7,9 +7,9 @@
 <p align="center">I design clear, useful interfaces and turn ideas into digital experiences.</p>
 
 <p align="center">
-  <a href="mailto:akashchakraborty606@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akash" /></a>
-  <a href="https://www.linkedin.com/in/pronab-chakraborty-b413bb80/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Akash on LinkedIn" /></a>
-  <a href="https://github.com/Akashch001?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore Akash's GitHub repositories" /></a>
+  <a href="mailto:akashchakraborty606@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/pronab-chakraborty-b413bb80/">LinkedIn</a> ·
+  <a href="https://github.com/Akashch001?tab=repositories">GitHub repositories</a>
 </p>
 
 ---
@@ -37,20 +37,16 @@ I'm a UI/UX designer and freelancer building a global career through practical p
 
 ### ✦ Languages, frameworks & tools
 
-**Design & frontend**  
-![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E) ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6) ![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="./assets/tool-grid.svg" width="100%" alt="Tool grid: Figma, HTML, CSS, Git, GitHub, React, TypeScript, and Tailwind CSS." />
+</p>
 
-**Used in linked projects**  
-![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+**Core tools:** Figma · HTML · CSS · Git · GitHub  
+**Used in linked projects:** React · TypeScript · Tailwind CSS
 
 ### ✦ GitHub activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashch001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9" alt="Akash's public GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashch001&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Languages used across Akash's public repositories" />
-</p>
-
-<p align="center"><a href="https://github.com/Akashch001">See my contributions and recent activity on GitHub →</a></p>
+GitHub shows my live contribution graph and recent work directly on [my profile](https://github.com/Akashch001). You can also explore the projects above to see what I'm building.
 
 ### ✦ Let's create something useful
 
