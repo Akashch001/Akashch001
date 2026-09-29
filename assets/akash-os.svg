@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
+  <title id="title">AKASH OS — Design. Build. Explore.</title>
+  <desc id="description">A dark blue desktop with a Windows-inspired workspace and terminal. AKASH (Pronab), UI/UX Designer, Freelancer, and AI Explorer. Decorative highlights animate once, then settle. All content remains visible without animation.</desc>
+  <defs>
+    <linearGradient id="desktop" x2="1" y2="1">
+      <stop stop-color="#101e3b"/>
+      <stop offset="1" stop-color="#080e1d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#246cb4" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#246cb4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#77e0e8"/>
+      <stop offset="1" stop-color="#779cff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#91b5ff" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="520" rx="20"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: Consolas, 'Courier New', monospace; }
+    .trace { stroke-dasharray: 460; stroke-dashoffset: 0; animation: trace 2.4s ease-out 1; }
+    .activity { opacity: 1; animation: activity 1.4s ease-in-out 2; }
+    @keyframes trace { from { stroke-dashoffset: 460; } to { stroke-dashoffset: 0; } }
+    @keyframes activity { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { .trace, .activity { animation: none; } }
+  </style>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="520" fill="url(#desktop)"/>
+    <ellipse cx="860" cy="180" rx="570" ry="380" fill="url(#glow)"/>
+    <rect width="1200" height="520" fill="url(#grid)"/>
+
+    <!-- Desktop identity -->
+    <g fill="#86dce8">
+      <rect x="48" y="37" width="9" height="9" rx="1"/>
+      <rect x="60" y="37" width="9" height="9" rx="1"/>
+      <rect x="48" y="49" width="9" height="9" rx="1"/>
+      <rect x="60" y="49" width="9" height="9" rx="1"/>
+    </g>
+    <text x="82" y="54" fill="#e0e9ff" font-size="16" font-weight="600" letter-spacing="2">AKASH OS</text>
+    <text x="1152" y="54" text-anchor="end" fill="#a8bad9" class="mono" font-size="13">PERSONAL WORKSPACE / 01</text>
+
+    <text x="48" y="136" fill="#8de0e8" class="mono" font-size="14" letter-spacing="2">DESIGNER'S DESKTOP</text>
+    <text x="44" y="208" fill="#f0f5ff" font-size="68" font-weight="700" letter-spacing="-3">Design. Build.</text>
+    <text x="44" y="282" fill="#f0f5ff" font-size="68" font-weight="700" letter-spacing="-3">Explore.</text>
+    <path class="trace" d="M48 308H478" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <text x="48" y="350" fill="#dae5fa" font-size="22" font-weight="600">AKASH <tspan fill="#a8bad9" font-weight="400">(Pronab)</tspan></text>
+    <text x="48" y="380" fill="#a8bad9" font-size="16">UI/UX Designer · Freelancer · AI Explorer</text>
+    <circle class="activity" cx="54" cy="421" r="5" fill="#8ce4c4"/>
+    <text x="69" y="426" fill="#b8d7cd" class="mono" font-size="13">OPEN TO DESIGN COLLABORATIONS</text>
+
+    <!-- Explorer window -->
+    <rect x="570" y="96" width="568" height="318" rx="12" fill="#030914" opacity=".4"/>
+    <rect x="560" y="86" width="568" height="318" rx="12" fill="#111d32" stroke="#3a4e71"/>
+    <path d="M573 87H1115Q1127 87 1127 99V128H561V99Q561 87 573 87" fill="#1c2c47"/>
+    <rect x="579" y="101" width="16" height="13" rx="2" fill="#8ab8ef"/>
+    <text x="607" y="114" fill="#e0e9ff" font-size="14">Workspace</text>
+    <g fill="none" stroke="#a8bad9" stroke-width="1.5">
+      <path d="M1028 110h10"/><rect x="1060" y="103" width="10" height="10"/>
+      <path d="m1094 103 10 10m0-10-10 10"/>
+    </g>
+    <rect x="580" y="144" width="528" height="32" rx="5" fill="#0c1629" stroke="#2a3d5c"/>
+    <text x="594" y="165" fill="#a8bad9" class="mono" font-size="13">Home / Akash / Creative workspace</text>
+    <path d="M716 194V302" stroke="#2a3d5c"/>
+    <rect x="580" y="194" width="120" height="31" rx="5" fill="#233e60"/>
+    <text x="594" y="214" fill="#e5efff" font-size="14">Overview</text>
+    <text x="594" y="250" fill="#a8bad9" font-size="14">Projects</text>
+    <text x="594" y="286" fill="#a8bad9" font-size="14">Learning</text>
+    <g fill="#e8bf79">
+      <path d="M740 201h20l6 7h36v40h-62z"/>
+      <path d="M861 201h20l6 7h36v40h-62z"/>
+      <path d="M982 201h20l6 7h36v40h-62z"/>
+    </g>
+    <g fill="#dbe6fb" font-size="14" text-anchor="middle">
+      <text x="771" y="273">UI / UX</text>
+      <text x="892" y="273">Web</text>
+      <text x="1013" y="273">AI lab</text>
+    </g>
+
+    <!-- Terminal overlay -->
+    <rect x="724" y="308" width="420" height="134" rx="9" fill="#080f1e" stroke="#476084"/>
+    <path d="M733 309H1135Q1143 309 1143 317V339H725V317Q725 309 733 309" fill="#20304a"/>
+    <text x="740" y="329" fill="#dbe6fb" class="mono" font-size="12">&gt;_ learning.log</text>
+    <text x="744" y="367" fill="#8de0e8" class="mono" font-size="14">$ focus --today</text>
+    <text x="744" y="395" fill="#dbe6fb" class="mono" font-size="14">Real projects. Practical skills.</text>
+    <text x="744" y="421" fill="#a8bad9" class="mono" font-size="13">Design / Learn / Iterate</text>
+    <rect class="activity" x="1010" y="409" width="8" height="14" fill="#8de0e8"/>
+
+    <!-- Taskbar -->
+    <path d="M0 468H1200V520H0Z" fill="#0b1425"/>
+    <path d="M0 468H1200" stroke="#2a3d5c"/>
+    <rect x="24" y="480" width="84" height="28" rx="5" fill="#233e60"/>
+    <text x="66" y="499" text-anchor="middle" fill="#e5efff" font-size="13">Start</text>
+    <text x="132" y="499" fill="#9cafcd" class="mono" font-size="12">DESIGN + CODE + CURIOSITY</text>
+    <text x="1176" y="499" text-anchor="end" fill="#9cafcd" class="mono" font-size="12">AKASHCH001 / GITHUB</text>
+  </g>
+</svg>
