@@ -1,62 +1,65 @@
 <p align="center">
-  <img src="./assets/akash-os.svg" width="100%" alt="AKASH OS — a desktop-inspired workspace for design, code, and curiosity." />
+  <img src="./assets/creative-night.png" width="100%" alt="Original anime-inspired night scene: a creative looking toward a glowing digital horizon." />
 </p>
 
-# AKASH (Pronab)
+<h1 align="center">Hi, I'm AKASH (Pronab) 👋</h1>
+<p align="center"><strong>UI/UX Designer · Digital Builder · AI Explorer</strong></p>
+<p align="center">I design clear, useful interfaces and turn ideas into digital experiences.</p>
 
-**UI/UX Designer · Freelancer · AI Explorer**
-
-I design clean, user-friendly digital experiences and bring a practical understanding of HTML and CSS to my work. I’m building a global freelancing career through real-world projects, while exploring how AI can improve design and everyday productivity.
-
-**Open to website and app design collaborations, freelance projects, and conversations with design teams.**
-
-[Discuss a project →](mailto:akashchakraborty606@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/) · [Explore my repositories](https://github.com/Akashch001?tab=repositories)
+<p align="center">
+  <a href="mailto:akashchakraborty606@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/pronab-chakraborty-b413bb80/">LinkedIn</a> ·
+  <a href="https://github.com/Akashch001?tab=repositories">GitHub repositories</a>
+</p>
 
 ---
 
-## 01 / Design workspace
+### ✦ About me
 
-My focus is simple: make digital products easier to understand and more enjoyable to use.
+I'm a UI/UX designer and freelancer building a global career through practical projects. I care about visual hierarchy, approachable interfaces, and the small details that make a product easier to use. I work in Figma, understand HTML and CSS, and explore AI tools that help with design and productivity.
 
-| Focus | What I bring |
+| 🎨 Design | 🌐 Web | 🧭 Right now |
+| :--- | :--- | :--- |
+| UI/UX, interface design, Figma | HTML, CSS, Git & GitHub | Portfolio work, design practice, AI experiments |
+
+<p align="center">
+  <img src="./assets/focus-board.svg" width="100%" alt="Focus board: Design user-friendly interfaces, build for the web, and explore useful AI tools." />
+</p>
+
+### ✦ Projects in the workspace
+
+| Project | What it explores |
 | :--- | :--- |
-| **Website & app interfaces** | Clean layouts, clear visual hierarchy, and attention to the user experience. |
-| **Design & implementation** | Figma for interface design, with HTML and CSS knowledge to connect design decisions to the web. |
-| **AI-assisted workflows** | An exploratory approach to AI tools for design, learning, and productivity. |
+| **[NexusCV](https://github.com/Akashch001/NexusCV)** | An open-source resume builder with an editorial interface and ATS-focused tools. |
+| **[Andy Portfolio](https://github.com/Akashch001/Andy-Portfolio)** | An interactive portfolio built with React, TypeScript, Tailwind CSS, and motion. |
 
-## 02 / Toolbox
+[Browse all repositories →](https://github.com/Akashch001?tab=repositories)
 
-**Design** — Figma · UI/UX  
-**Web** — HTML · CSS  
-**Version control** — Git · GitHub  
-**Exploring** — AI tools for design & productivity
+### ✦ Languages, frameworks & tools
 
-## 03 / Currently building
+<p align="center">
+  <img src="./assets/tool-grid.svg" width="100%" alt="Tool grid: Figma, HTML, CSS, Git, GitHub, React, TypeScript, and Tailwind CSS." />
+</p>
 
-- **Portfolio:** developing UI/UX projects that show how I think about interface design.
-- **Practice:** learning advanced UI/UX through hands-on, real-world work.
-- **Collaboration:** connecting with people building websites and apps, including international clients.
-- **Experiments:** trying AI tools and learning where they fit into a useful design workflow.
+**Core tools:** Figma · HTML · CSS · Git · GitHub  
+**Used in linked projects:** React · TypeScript · Tailwind CSS
 
-[Browse my work on GitHub →](https://github.com/Akashch001?tab=repositories)
+### ✦ GitHub activity
 
-> Building my career through practical skills and real projects.
+GitHub shows my live contribution graph and recent work directly on [my profile](https://github.com/Akashch001). You can also explore the projects above to see what I'm building.
 
-## 04 / Start a conversation
+### ✦ Let's create something useful
 
-Have a website or app idea, a design collaboration, or an opportunity on your team? Send me a short note about what you’re building, who it’s for, and the help you need.
+I'm open to website and app design collaborations, freelance work, and conversations with design teams. Tell me what you're building and who it is for.
 
-**Email:** [akashchakraborty606@gmail.com](mailto:akashchakraborty606@gmail.com)  
-**LinkedIn:** [Pronab Chakraborty](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/)
-
-I’m also happy to talk about design, freelancing, and the tools we use to create.
+**[Email me](mailto:akashchakraborty606@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/)**
 
 ---
 
 <details>
-<summary>Support my learning & independent work</summary>
+<summary>Support my independent work</summary>
 
-If you’d like to support my journey, thank you.
+If you'd like to support my learning and projects, thank you.
 
 [Support via PayPal](https://www.paypal.me/pronabchakraborty87)
 
