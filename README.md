@@ -1,62 +1,69 @@
 <p align="center">
-  <img src="./assets/akash-os.svg" width="100%" alt="AKASH OS — a desktop-inspired workspace for design, code, and curiosity." />
+  <img src="./assets/creative-night.png" width="100%" alt="Original anime-inspired night scene: a creative looking toward a glowing digital horizon." />
 </p>
 
-# AKASH (Pronab)
+<h1 align="center">Hi, I'm AKASH (Pronab) 👋</h1>
+<p align="center"><strong>UI/UX Designer · Digital Builder · AI Explorer</strong></p>
+<p align="center">I design clear, useful interfaces and turn ideas into digital experiences.</p>
 
-**UI/UX Designer · Freelancer · AI Explorer**
-
-I design clean, user-friendly digital experiences and bring a practical understanding of HTML and CSS to my work. I’m building a global freelancing career through real-world projects, while exploring how AI can improve design and everyday productivity.
-
-**Open to website and app design collaborations, freelance projects, and conversations with design teams.**
-
-[Discuss a project →](mailto:akashchakraborty606@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/) · [Explore my repositories](https://github.com/Akashch001?tab=repositories)
+<p align="center">
+  <a href="mailto:akashchakraborty606@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akash" /></a>
+  <a href="https://www.linkedin.com/in/pronab-chakraborty-b413bb80/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Akash on LinkedIn" /></a>
+  <a href="https://github.com/Akashch001?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore Akash's GitHub repositories" /></a>
+</p>
 
 ---
 
-## 01 / Design workspace
+### ✦ About me
 
-My focus is simple: make digital products easier to understand and more enjoyable to use.
+I'm a UI/UX designer and freelancer building a global career through practical projects. I care about visual hierarchy, approachable interfaces, and the small details that make a product easier to use. I work in Figma, understand HTML and CSS, and explore AI tools that help with design and productivity.
 
-| Focus | What I bring |
+| 🎨 Design | 🌐 Web | 🧭 Right now |
+| :--- | :--- | :--- |
+| UI/UX, interface design, Figma | HTML, CSS, Git & GitHub | Portfolio work, design practice, AI experiments |
+
+<p align="center">
+  <img src="./assets/focus-board.svg" width="100%" alt="Focus board: Design user-friendly interfaces, build for the web, and explore useful AI tools." />
+</p>
+
+### ✦ Projects in the workspace
+
+| Project | What it explores |
 | :--- | :--- |
-| **Website & app interfaces** | Clean layouts, clear visual hierarchy, and attention to the user experience. |
-| **Design & implementation** | Figma for interface design, with HTML and CSS knowledge to connect design decisions to the web. |
-| **AI-assisted workflows** | An exploratory approach to AI tools for design, learning, and productivity. |
+| **[NexusCV](https://github.com/Akashch001/NexusCV)** | An open-source resume builder with an editorial interface and ATS-focused tools. |
+| **[Andy Portfolio](https://github.com/Akashch001/Andy-Portfolio)** | An interactive portfolio built with React, TypeScript, Tailwind CSS, and motion. |
 
-## 02 / Toolbox
+[Browse all repositories →](https://github.com/Akashch001?tab=repositories)
 
-**Design** — Figma · UI/UX  
-**Web** — HTML · CSS  
-**Version control** — Git · GitHub  
-**Exploring** — AI tools for design & productivity
+### ✦ Languages, frameworks & tools
 
-## 03 / Currently building
+**Design & frontend**  
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E) ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6) ![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
 
-- **Portfolio:** developing UI/UX projects that show how I think about interface design.
-- **Practice:** learning advanced UI/UX through hands-on, real-world work.
-- **Collaboration:** connecting with people building websites and apps, including international clients.
-- **Experiments:** trying AI tools and learning where they fit into a useful design workflow.
+**Used in linked projects**  
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-[Browse my work on GitHub →](https://github.com/Akashch001?tab=repositories)
+### ✦ GitHub activity
 
-> Building my career through practical skills and real projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashch001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9" alt="Akash's public GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashch001&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Languages used across Akash's public repositories" />
+</p>
 
-## 04 / Start a conversation
+<p align="center"><a href="https://github.com/Akashch001">See my contributions and recent activity on GitHub →</a></p>
 
-Have a website or app idea, a design collaboration, or an opportunity on your team? Send me a short note about what you’re building, who it’s for, and the help you need.
+### ✦ Let's create something useful
 
-**Email:** [akashchakraborty606@gmail.com](mailto:akashchakraborty606@gmail.com)  
-**LinkedIn:** [Pronab Chakraborty](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/)
+I'm open to website and app design collaborations, freelance work, and conversations with design teams. Tell me what you're building and who it is for.
 
-I’m also happy to talk about design, freelancing, and the tools we use to create.
+**[Email me](mailto:akashchakraborty606@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/pronab-chakraborty-b413bb80/)**
 
 ---
 
 <details>
-<summary>Support my learning & independent work</summary>
+<summary>Support my independent work</summary>
 
-If you’d like to support my journey, thank you.
+If you'd like to support my learning and projects, thank you.
 
 [Support via PayPal](https://www.paypal.me/pronabchakraborty87)
 

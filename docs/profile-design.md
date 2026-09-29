@@ -1,25 +1,21 @@
 # Profile design maintenance
 
-The profile uses a Windows-inspired desktop illustration and ordinary GitHub Markdown. The visual theme does not imply operating-system or software-engineering experience.
+The visual direction is inspired by dark, illustrated GitHub profiles. The banner is original generated artwork; its fictional character is an illustration, not a portrait of Akash. The copy and linked projects describe Akash's own work.
 
-## Assets and motion
+## Assets and rendering
 
-- `assets/akash-os.svg` is self-contained: vector shapes, system fonts, and CSS animation inside an SVG image. No scripts, external fonts, remote images, tracking pixels, scheduled workflows, or third-party badge/stat services are required.
-- The accent line draws once in 2.4 seconds; activity indicators settle after 2.8 seconds. There is no endless animation or flashing. `prefers-reduced-motion: reduce` disables motion.
-- The base SVG is the complete static composition. If animation is unavailable, every label remains visible. The README repeats all essential identity, skills, and contact information as accessible text.
-- Keep the image embedded with a relative path and descriptive alt text. Do not paste inline SVG, JavaScript, or page-level CSS into the README.
-- Colors are fixed within the illustration for a consistent result on either GitHub theme. The body uses GitHub's native theme and responsive Markdown.
+- `assets/creative-night.png` is the original banner illustration. It contains no text, so the name, roles, and contact links remain accessible in the README.
+- `assets/focus-board.svg` is a self-contained vector dashboard. Its indicator pulses twice, then settles. `prefers-reduced-motion: reduce` turns off the animation, and the static composition contains all of the text.
+- Both local assets use relative paths. The README uses GitHub-compatible Markdown and HTML, without scripts or page CSS.
+- Social and tool badges come from shields.io; GitHub statistics cards come from github-readme-stats.vercel.app. Those third-party images may be unavailable at times. The underlying skills, projects, and link to native GitHub activity remain readable without them.
 
-## Content
+## Content sources
 
-The identity, skills, current interests, email, LinkedIn, PayPal, and USDT address come from the previous README. No client outcomes, seniority, employment history, or completed case studies have been invented. Add featured projects only when their destinations and descriptions can be verified.
+Identity, design focus, email, LinkedIn, and support information were retained from the previous profile README. NexusCV and Andy-Portfolio descriptions are based on their public READMEs. React, TypeScript, and Tailwind are labeled as technologies used in linked projects, not a claim of expert proficiency. The statistics are generated from public GitHub repositories and can change.
 
 ## Review checklist
 
-- Open the rendered README on GitHub at desktop and narrow widths.
-- Check the header image, contact links, repository link, and support disclosure.
-- Confirm the short animation settles and reduced-motion mode stays static.
-- Keep text readable when the image cannot load.
-- Parse the SVG as XML after edits; preserve its viewBox and avoid external references.
-
-GitHub formatting reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Check the README on the main repository and on the rendered GitHub profile at desktop and narrow widths.
+- Check that the hero, dashboard, project links, contact links, disclosure, badges, and statistics images load.
+- Test the SVG with and without reduced motion. Parse it as XML after edits.
+- Keep meaningful copy outside images and avoid unverified outcome or employment claims.
