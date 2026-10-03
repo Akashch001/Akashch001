@@ -26,15 +26,6 @@ I'm a UI/UX designer and freelancer building a global career through practical p
   <img src="./assets/focus-board.svg" width="100%" alt="Focus board: Design user-friendly interfaces, build for the web, and explore useful AI tools." />
 </p>
 
-### ✦ Projects in the workspace
-
-| Project | What it explores |
-| :--- | :--- |
-| **[NexusCV](https://github.com/Akashch001/NexusCV)** | An open-source resume builder with an editorial interface and ATS-focused tools. |
-| **[Andy Portfolio](https://github.com/Akashch001/Andy-Portfolio)** | An interactive portfolio built with React, TypeScript, Tailwind CSS, and motion. |
-
-[Browse all repositories →](https://github.com/Akashch001?tab=repositories)
-
 ### ✦ Languages, frameworks & tools
 
 <p align="center">
