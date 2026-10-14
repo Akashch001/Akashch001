@@ -12,27 +12,27 @@
 <br/>
 
 <!-- SECTION 1: HERO -->
-<img src="assets/hero.svg?v=1" alt="Pronab Chakraborty - Creative Developer &amp; Co-founder at Nexus World Hero Banner" width="100%" />
+<img src="assets/hero.svg?v=2" alt="Pronab Chakraborty - Creative Developer &amp; Co-founder at Nexus World Hero Banner" width="100%" />
 
 <br/><br/>
 
 <!-- SECTION 2: CAPABILITIES & LIFE -->
-<img src="assets/about-life.svg?v=1" alt="Pronab Chakraborty - Core Capabilities and 3-Slide Life Interests Carousel" width="100%" />
+<img src="assets/about-life.svg?v=2" alt="Pronab Chakraborty - Core Capabilities and 3-Slide Life Interests Carousel" width="100%" />
 
 <br/><br/>
 
 <!-- SECTION 3: STACK -->
-<img src="assets/stack.svg?v=1" alt="Technology Stack - Motion and 3D Graphics Orbits and Chips" width="100%" />
+<img src="assets/stack.svg?v=2" alt="Technology Stack - Motion and 3D Graphics Orbits and Chips" width="100%" />
 
 <br/><br/>
 
 <!-- SECTION 4: ID DASHBOARD -->
-<img src="assets/id-dashboard.svg?v=1" alt="Nexus World Studio ID Card with Verified Dated GitHub Metrics" width="100%" />
+<img src="assets/id-dashboard.svg?v=2" alt="Nexus World Studio ID Card with Verified Dated GitHub Metrics" width="100%" />
 
 <br/><br/>
 
 <!-- SECTION 5: CONNECT -->
-<img src="assets/connect.svg?v=1" alt="Connect with Pronab Chakraborty - Social Cards and Inquiries" width="100%" />
+<img src="assets/connect.svg?v=2" alt="Connect with Pronab Chakraborty - Social Cards and Inquiries" width="100%" />
 
 </div>
 

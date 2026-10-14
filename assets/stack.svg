@@ -45,15 +45,15 @@
       <circle cx="2" cy="2" r="1" fill="#1b2848" opacity="0.6" />
     </pattern>
 
-    <!-- Elliptical Orbits Paths (Center at 390, 310) -->
-    <!-- Orbit 1 (Outer: a=300, b=125, rot=-14deg) -->
-    <path id="stack-orbit-1-path" d="M 99 235 A 300 125 -14 1 1 681 385 A 300 125 -14 1 1 99 235" fill="none" />
+    <!-- Elliptical Orbits Paths (Center at 420, 310) -->
+    <!-- Orbit 1 (Outer: a=280, b=115, rot=-14deg) -->
+    <path id="stack-orbit-1-path" d="M 148 378 A 280 115 -14 1 1 692 242 A 280 115 -14 1 1 148 378" fill="none" />
     
-    <!-- Orbit 2 (Middle: a=215, b=90, rot=-9deg) -->
-    <path id="stack-orbit-2-path" d="M 178 276 A 215 90 -9 1 1 602 344 A 215 90 -9 1 1 178 276" fill="none" />
+    <!-- Orbit 2 (Middle: a=200, b=80, rot=-9deg) -->
+    <path id="stack-orbit-2-path" d="M 223 341 A 200 80 -9 1 1 617 279 A 200 80 -9 1 1 223 341" fill="none" />
 
-    <!-- Orbit 3 (Inner: a=135, b=55, rot=-4deg) -->
-    <path id="stack-orbit-3-path" d="M 255 300 A 135 55 -4 1 1 525 320 A 135 55 -4 1 1 255 300" fill="none" />
+    <!-- Orbit 3 (Inner: a=125, b=48, rot=-4deg) -->
+    <path id="stack-orbit-3-path" d="M 295 319 A 125 48 -4 1 1 545 301 A 125 48 -4 1 1 295 319" fill="none" />
   </defs>
 
   <rect width="1200" height="580" fill="#070b16" />
@@ -67,17 +67,17 @@
 
   <!-- ================= LEFT STAGE: THREE TILTED ORBITS ================= -->
   <!-- Ambient Core Glow -->
-  <circle cx="390" cy="310" r="180" fill="url(#stack-core-glow)" />
+  <circle cx="420" cy="310" r="180" fill="url(#stack-core-glow)" />
 
   <!-- Render Orbit Guide Rings -->
   <g fill="none" stroke-width="1.2">
-    <ellipse cx="390" cy="310" rx="300" ry="125" transform="rotate(-14, 390, 310)" stroke="#247bff" stroke-opacity="0.35" stroke-dasharray="4 6" />
-    <ellipse cx="390" cy="310" rx="215" ry="90" transform="rotate(-9, 390, 310)" stroke="#ff354f" stroke-opacity="0.35" stroke-dasharray="4 6" />
-    <ellipse cx="390" cy="310" rx="135" ry="55" transform="rotate(-4, 390, 310)" stroke="#38bdf8" stroke-opacity="0.4" stroke-dasharray="3 5" />
+    <ellipse cx="420" cy="310" rx="280" ry="115" transform="rotate(-14, 420, 310)" stroke="#247bff" stroke-opacity="0.35" stroke-dasharray="4 6" />
+    <ellipse cx="420" cy="310" rx="200" ry="80" transform="rotate(-9, 420, 310)" stroke="#ff354f" stroke-opacity="0.35" stroke-dasharray="4 6" />
+    <ellipse cx="420" cy="310" rx="125" ry="48" transform="rotate(-4, 420, 310)" stroke="#38bdf8" stroke-opacity="0.4" stroke-dasharray="3 5" />
   </g>
 
   <!-- Center Core Node -->
-  <g transform="translate(390, 310)">
+  <g transform="translate(420, 310)">
     <circle cx="0" cy="0" r="38" fill="#0b1428" stroke="#247bff" stroke-width="1.5" />
     <circle cx="0" cy="0" r="28" fill="#0f1d3a" stroke="#ff354f" stroke-opacity="0.5" stroke-width="1" />
     <circle cx="0" cy="0" r="6" fill="#38bdf8" />
