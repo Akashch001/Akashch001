@@ -66,3 +66,11 @@ The following visual and motion properties **require human/browser review** and 
    - Visual verification under `@media (prefers-reduced-motion: reduce)` to ensure carousel slides stack without overlap and the lanyard ID card rests vertically.
 5. **Live GitHub CDN (Camo Proxy) Ingestion**:
    - Cache-busting query strings (`?v=N`) must be incremented whenever SVG assets are modified to instruct GitHub's caching proxy (`camo.githubusercontent.com`) to fetch fresh assets.
+
+---
+
+## 📖 Contributor Guide & Visual Checklist
+
+For complete step-by-step instructions on updating assets, encoding portraits, updating licenses, bumping version strings, and the 4-point visual-review checklist, see [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+For the automated CI workflow that runs this validator on every push and pull request, see [.github/workflows/validate-assets.yml](../.github/workflows/validate-assets.yml).
