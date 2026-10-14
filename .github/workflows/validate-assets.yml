@@ -1,0 +1,52 @@
+name: Validate Profile Assets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'assets/**'
+      - 'licenses/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'docs/**'
+      - 'CONTRIBUTING.md'
+      - 'README.md'
+      - '.github/workflows/validate-assets.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'assets/**'
+      - 'licenses/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'docs/**'
+      - 'CONTRIBUTING.md'
+      - 'README.md'
+      - '.github/workflows/validate-assets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Asset Validation and Unit Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Unit Test Suite
+        run: |
+          python3 -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Run Profile Asset Validator
+        run: |
+          python3 scripts/validate_assets.py --verbose
