@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="100%" height="100%">
+  <title>Capabilities and Life Interests - Pronab Chakraborty</title>
+  <desc>Grounded professional capabilities beside a 3-slide personal interests carousel on a 12-second cycle</desc>
+  <defs>
+    <style>
+
+    @font-face {
+      font-family: 'Space Grotesk';
+      font-style: normal;
+      font-weight: 700;
+      src: url('data:font/woff2;base64,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') format('woff2');
+    }
+    @font-face {
+      font-family: 'Space Mono';
+      font-style: normal;
+      font-weight: 400;
+      src: url('data:font/woff2;base64,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') format('woff2');
+    }
+
+      .about-mono { font-family: 'Space Mono', ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .about-display { font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif; }
+      
+      @media (prefers-reduced-motion: reduce) {
+        .about-anim-only { display: none !important; }
+        .about-static-only { display: block !important; opacity: 1 !important; visibility: visible !important; }
+      }
+      @media not (prefers-reduced-motion: reduce) {
+        .about-static-only { display: none !important; }
+      }
+    </style>
+
+    <linearGradient id="about-border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#ff354f" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#247bff" stop-opacity="0.2" />
+    </linearGradient>
+
+    <linearGradient id="about-item-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f1933" />
+      <stop offset="100%" stop-color="#0b1326" />
+    </linearGradient>
+
+    <pattern id="about-dot-grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1b2848" opacity="0.6" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="540" fill="#070b16" />
+  <rect width="1200" height="540" fill="url(#about-dot-grid)" />
+
+  <!-- Section Title -->
+  <g transform="translate(60, 48)">
+    <text x="0" y="0" class="about-mono" font-size="12" fill="#38bdf8" letter-spacing="1.5">02 / ARCHITECTURE &amp; LIFESTYLE</text>
+    <text x="0" y="24" class="about-display" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.5">Capabilities &amp; Life</text>
+  </g>
+
+  <!-- ================= LEFT COLUMN: CONFIRMED CAPABILITIES ================= -->
+  <g transform="translate(60, 95)">
+    <rect width="520" height="405" rx="20" fill="#0b1224" stroke="url(#about-border-grad)" stroke-width="1.2" />
+    
+    <g transform="translate(25, 28)">
+      <text x="0" y="0" class="about-display" font-size="17" font-weight="700" fill="#f8fafc">CONFIRMED CAPABILITIES</text>
+      <text x="0" y="18" class="about-mono" font-size="11" fill="#38bdf8">Grounded Engineering &amp; Architecture</text>
+    </g>
+
+    <!-- 5 Grounded Capability Items -->
+    <!-- Item 1 -->
+    <g transform="translate(25, 65)">
+      <rect width="470" height="52" rx="10" fill="url(#about-item-grad)" stroke="#247bff" stroke-opacity="0.25" stroke-width="1" />
+      <rect x="0" y="0" width="4" height="52" rx="2" fill="#247bff" />
+      <text x="20" y="31" class="about-display" font-size="14" font-weight="700" fill="#f1f5f9">Frontend Development &amp; Creative Engineering</text>
+      <text x="440" y="32" class="about-mono" font-size="11" fill="#38bdf8" text-anchor="end">01</text>
+    </g>
+
+    <!-- Item 2 -->
+    <g transform="translate(25, 127)">
+      <rect width="470" height="52" rx="10" fill="url(#about-item-grad)" stroke="#247bff" stroke-opacity="0.25" stroke-width="1" />
+      <rect x="0" y="0" width="4" height="52" rx="2" fill="#ff354f" />
+      <text x="20" y="31" class="about-display" font-size="14" font-weight="700" fill="#f1f5f9">Scroll-Driven Interfaces &amp; Motion Architecture</text>
+      <text x="440" y="32" class="about-mono" font-size="11" fill="#ff354f" text-anchor="end">02</text>
+    </g>
+
+    <!-- Item 3 -->
+    <g transform="translate(25, 189)">
+      <rect width="470" height="52" rx="10" fill="url(#about-item-grad)" stroke="#247bff" stroke-opacity="0.25" stroke-width="1" />
+      <rect x="0" y="0" width="4" height="52" rx="2" fill="#38bdf8" />
+      <text x="20" y="31" class="about-display" font-size="14" font-weight="700" fill="#f1f5f9">Interactive Three.js &amp; WebGL Experiences</text>
+      <text x="440" y="32" class="about-mono" font-size="11" fill="#38bdf8" text-anchor="end">03</text>
+    </g>
+
+    <!-- Item 4 -->
+    <g transform="translate(25, 251)">
+      <rect width="470" height="52" rx="10" fill="url(#about-item-grad)" stroke="#247bff" stroke-opacity="0.25" stroke-width="1" />
+      <rect x="0" y="0" width="4" height="52" rx="2" fill="#fbbf24" />
+      <text x="20" y="31" class="about-display" font-size="14" font-weight="700" fill="#f1f5f9">Web Applications &amp; Workflow Automation</text>
+      <text x="440" y="32" class="about-mono" font-size="11" fill="#fbbf24" text-anchor="end">04</text>
+    </g>
+
+    <!-- Item 5 -->
+    <g transform="translate(25, 313)">
+      <rect width="470" height="52" rx="10" fill="url(#about-item-grad)" stroke="#247bff" stroke-opacity="0.25" stroke-width="1" />
+      <rect x="0" y="0" width="4" height="52" rx="2" fill="#10b981" />
+      <text x="20" y="31" class="about-display" font-size="14" font-weight="700" fill="#f1f5f9">Interface Performance &amp; Reduced-Motion A11y</text>
+      <text x="440" y="32" class="about-mono" font-size="11" fill="#10b981" text-anchor="end">05</text>
+    </g>
+  </g>
+
+  <!-- ================= RIGHT COLUMN: PERSONAL INTERESTS CAROUSEL ================= -->
+  <g transform="translate(620, 95)">
+    <rect width="520" height="405" rx="20" fill="#0b1224" stroke="url(#about-border-grad)" stroke-width="1.2" />
+
+    <g transform="translate(25, 28)">
+      <text x="0" y="0" class="about-display" font-size="17" font-weight="700" fill="#f8fafc">PERSONAL INTERESTS</text>
+      <text x="0" y="18" class="about-mono" font-size="11" fill="#ff354f">3-Slide Carousel · 12-Second Cycle</text>
+    </g>
+
+    <!-- ================= ANIMATED CAROUSEL (Active Mode) ================= -->
+    <g class="about-anim-only">
+      <!-- 3 Segment Progress Bars (Total 470px -> 3 segments of 144px with 19px gap) -->
+      <!-- Segment 1: fills 0s to 4s (0% to 33.3% of 12s) -->
+      <g transform="translate(25, 62)">
+        <rect width="144" height="4" rx="2" fill="#1e293b" />
+        <rect width="0" height="4" rx="2" fill="#247bff">
+          <animate attributeName="width" values="0; 144; 144; 0; 0" keyTimes="0; 0.333; 0.98; 0.99; 1" dur="12s" repeatCount="indefinite" begin="0s" />
+        </rect>
+      </g>
+
+      <!-- Segment 2: fills 4s to 8s (33.3% to 66.6% of 12s) -->
+      <g transform="translate(188, 62)">
+        <rect width="144" height="4" rx="2" fill="#1e293b" />
+        <rect width="0" height="4" rx="2" fill="#ff354f">
+          <animate attributeName="width" values="0; 0; 144; 144; 0" keyTimes="0; 0.333; 0.666; 0.98; 1" dur="12s" repeatCount="indefinite" begin="0s" />
+        </rect>
+      </g>
+
+      <!-- Segment 3: fills 8s to 12s (66.6% to 100% of 12s) -->
+      <g transform="translate(351, 62)">
+        <rect width="144" height="4" rx="2" fill="#1e293b" />
+        <rect width="0" height="4" rx="2" fill="#38bdf8">
+          <animate attributeName="width" values="0; 0; 0; 144; 144" keyTimes="0; 0.666; 0.667; 0.98; 1" dur="12s" repeatCount="indefinite" begin="0s" />
+        </rect>
+      </g>
+
+      <!-- Slide 1: Creative Coding & Generative Art (0s - 4s) -->
+      <g transform="translate(25, 95)">
+        <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.31;0.333;0.666;0.98;0.99;1" dur="12s" repeatCount="indefinite" begin="0s" />
+        <rect width="470" height="270" rx="14" fill="#0e172e" stroke="#247bff" stroke-opacity="0.3" stroke-width="1" />
+        <circle cx="40" cy="45" r="20" fill="#247bff" fill-opacity="0.15" />
+        <text x="40" y="52" class="about-mono" font-size="18" fill="#247bff" text-anchor="middle">🎨</text>
+        <text x="75" y="38" class="about-mono" font-size="11" fill="#38bdf8" letter-spacing="1">INTEREST 01 / VISUAL MATHEMATICS</text>
+        <text x="75" y="58" class="about-display" font-size="18" font-weight="700" fill="#f8fafc">Creative Coding &amp; Generative Art</text>
+        
+        <text x="25" y="105" class="about-display" font-size="14" font-weight="700" fill="#94a3b8">
+          <tspan x="25" dy="0">Algorithmic art, custom shader experimentation, and expressive</tspan>
+          <tspan x="25" dy="24">canvas mechanics exploring the frontier where code and visual</tspan>
+          <tspan x="25" dy="24">expression unite into fluid responsive aesthetics.</tspan>
+        </text>
+
+        <g transform="translate(25, 195)">
+          <rect width="180" height="32" rx="8" fill="#142142" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#38bdf8">GSAP Timelines &amp; Math</text>
+        </g>
+        <g transform="translate(215, 195)">
+          <rect width="170" height="32" rx="8" fill="#142142" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#38bdf8">Shader Dynamics</text>
+        </g>
+      </g>
+
+      <!-- Slide 2: Gaming & Interactive Worlds (4s - 8s) -->
+      <g transform="translate(25, 95)">
+        <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.333;0.35;0.64;0.666;0.98;1" dur="12s" repeatCount="indefinite" begin="0s" />
+        <rect width="470" height="270" rx="14" fill="#0e172e" stroke="#ff354f" stroke-opacity="0.3" stroke-width="1" />
+        <circle cx="40" cy="45" r="20" fill="#ff354f" fill-opacity="0.15" />
+        <text x="40" y="52" class="about-mono" font-size="18" fill="#ff354f" text-anchor="middle">🎮</text>
+        <text x="75" y="38" class="about-mono" font-size="11" fill="#ff354f" letter-spacing="1">INTEREST 02 / REAL-TIME WORLDS</text>
+        <text x="75" y="58" class="about-display" font-size="18" font-weight="700" fill="#f8fafc">Gaming &amp; Interactive Worlds</text>
+        
+        <text x="25" y="105" class="about-display" font-size="14" font-weight="700" fill="#94a3b8">
+          <tspan x="25" dy="0">Deep fascination with real-time game loop systems, spatial</tspan>
+          <tspan x="25" dy="24">physics simulations, immersive virtual worldbuilding, and</tspan>
+          <tspan x="25" dy="24">interactive mechanics that deliver immediate tactile feedback.</tspan>
+        </text>
+
+        <g transform="translate(25, 195)">
+          <rect width="180" height="32" rx="8" fill="#2d1420" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#ff354f">Physics Simulations</text>
+        </g>
+        <g transform="translate(215, 195)">
+          <rect width="170" height="32" rx="8" fill="#2d1420" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#ff354f">Spatial Mechanics</text>
+        </g>
+      </g>
+
+      <!-- Slide 3: Tech Gadgets & Hardware Tinkering (8s - 12s) -->
+      <g transform="translate(25, 95)">
+        <animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.666;0.68;0.96;0.98;0.99;1" dur="12s" repeatCount="indefinite" begin="0s" />
+        <rect width="470" height="270" rx="14" fill="#0e172e" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1" />
+        <circle cx="40" cy="45" r="20" fill="#38bdf8" fill-opacity="0.15" />
+        <text x="40" y="52" class="about-mono" font-size="18" fill="#38bdf8" text-anchor="middle">⚙️</text>
+        <text x="75" y="38" class="about-mono" font-size="11" fill="#38bdf8" letter-spacing="1">INTEREST 03 / PHYSICAL COMPUTING</text>
+        <text x="75" y="58" class="about-display" font-size="18" font-weight="700" fill="#f8fafc">Tech Gadgets &amp; Hardware Tinkering</text>
+        
+        <text x="25" y="105" class="about-display" font-size="14" font-weight="700" fill="#94a3b8">
+          <tspan x="25" dy="0">Hands-on experimentation with physical computing, microcontrollers,</tspan>
+          <tspan x="25" dy="24">custom mechanical hardware rigs, and bridging tactile physical</tspan>
+          <tspan x="25" dy="24">inputs directly into dynamic digital environments.</tspan>
+        </text>
+
+        <g transform="translate(25, 195)">
+          <rect width="180" height="32" rx="8" fill="#142142" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#38bdf8">Microcontrollers</text>
+        </g>
+        <g transform="translate(215, 195)">
+          <rect width="170" height="32" rx="8" fill="#142142" />
+          <text x="14" y="20" class="about-mono" font-size="11" fill="#38bdf8">Physical Sensors</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- ================= STATIC / REDUCED MOTION FALLBACK ================= -->
+    <!-- Displays all three interests stacked cleanly without overlap -->
+    <g class="about-static-only" transform="translate(25, 60)">
+      <!-- Static Slide 1 -->
+      <g transform="translate(0, 0)">
+        <rect width="470" height="92" rx="10" fill="#0e172e" stroke="#247bff" stroke-opacity="0.3" stroke-width="1" />
+        <text x="18" y="28" class="about-mono" font-size="10" fill="#38bdf8">INTEREST 01 · VISUAL MATH</text>
+        <text x="18" y="48" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Creative Coding &amp; Generative Art</text>
+        <text x="18" y="68" class="about-display" font-size="12" fill="#94a3b8">Algorithmic canvas mechanics and custom shader experimentation.</text>
+      </g>
+
+      <!-- Static Slide 2 -->
+      <g transform="translate(0, 102)">
+        <rect width="470" height="92" rx="10" fill="#0e172e" stroke="#ff354f" stroke-opacity="0.3" stroke-width="1" />
+        <text x="18" y="28" class="about-mono" font-size="10" fill="#ff354f">INTEREST 02 · REAL-TIME ENVIRONMENTS</text>
+        <text x="18" y="48" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Gaming &amp; Interactive Worlds</text>
+        <text x="18" y="68" class="about-display" font-size="12" fill="#94a3b8">Interactive game loop logic, spatial physics, and virtual worlds.</text>
+      </g>
+
+      <!-- Static Slide 3 -->
+      <g transform="translate(0, 204)">
+        <rect width="470" height="92" rx="10" fill="#0e172e" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1" />
+        <text x="18" y="28" class="about-mono" font-size="10" fill="#38bdf8">INTEREST 03 · PHYSICAL COMPUTING</text>
+        <text x="18" y="48" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Tech Gadgets &amp; Hardware Tinkering</text>
+        <text x="18" y="68" class="about-display" font-size="12" fill="#94a3b8">Microcontrollers, custom mechanical rigs, and physical sensors.</text>
+      </g>
+    </g>
+  </g>
+</svg>
